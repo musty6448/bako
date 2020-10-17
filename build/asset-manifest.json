@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/bako/static/css/main.81141084.chunk.css",
+    "main.js": "/bako/static/js/main.d6301a69.chunk.js",
+    "main.js.map": "/bako/static/js/main.d6301a69.chunk.js.map",
+    "runtime-main.js": "/bako/static/js/runtime-main.f7ced616.js",
+    "runtime-main.js.map": "/bako/static/js/runtime-main.f7ced616.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/bako/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.ba1f8f8e.chunk.js": "/bako/static/js/2.ba1f8f8e.chunk.js",
+    "static/js/2.ba1f8f8e.chunk.js.map": "/bako/static/js/2.ba1f8f8e.chunk.js.map",
+    "index.html": "/bako/index.html",
+    "precache-manifest.900983b5fc42520f0bad0058dd89a803.js": "/bako/precache-manifest.900983b5fc42520f0bad0058dd89a803.js",
+    "service-worker.js": "/bako/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/bako/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.81141084.chunk.css.map": "/bako/static/css/main.81141084.chunk.css.map",
+    "static/js/2.ba1f8f8e.chunk.js.LICENSE.txt": "/bako/static/js/2.ba1f8f8e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f7ced616.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.ba1f8f8e.chunk.js",
+    "static/css/main.81141084.chunk.css",
+    "static/js/main.d6301a69.chunk.js"
+  ]
+}
